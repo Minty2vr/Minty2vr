@@ -13,6 +13,7 @@ AHK,
 C,
 Asembly,
 java,
+python
 
 Fun Facts:
 i started programing when i was 11! it was a small game on scratch.
