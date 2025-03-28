@@ -4,8 +4,8 @@ my pronouns are They/Them.
 I am transgender female.
 
 Im curently learning:
-Godot,
-java,
+GDscript,
+python
 
 languages ive used:
 GDscript,
